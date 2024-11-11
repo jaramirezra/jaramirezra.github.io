@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @JARAMIREZRA / Hola soy @JARAMIREZRA
-- 👀 I’m interested in learning new things every day / Me interesa aprender cosas nuevas cada día
-- 🌱 I’m currently learning php, JavaScript and python / Actualmente estoy aprendiendo php, JavaScript y python
-- 💞️ I’m looking to collaborate on php, JavaScript / Busco colaborar en php, JavaScript
-- 📫 How to reach me through my mail ramirezjeisonandres@gmail.com / Cómo contactar conmigo a través de mi correo ramirezjeisonandres@gmail.com
+# 👋 Hola, soy Jeison Ramírez (@JARAMIREZRA)
 
-<!---
-JARAMIREZRA/JARAMIREZRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌱 Sobre mí
+Soy un desarrollador apasionado, siempre buscando aprender algo nuevo cada día. Actualmente, estoy enfocado en mejorar mis habilidades en **PHP**, **JavaScript** y **Python**.
+
+### 🚀 Tecnologías
+- **PHP**: Desarrollo web backend y creación de APIs.
+- **JavaScript**: Programación frontend y desarrollo de aplicaciones interactivas.
+- **Python**: Desarrollo de scripts y automatización de tareas.
+
+### 💬 ¿En qué puedo colaborar?
+Me encantaría participar en proyectos de **PHP** y **JavaScript**, ya sea en desarrollo web o en la creación de herramientas útiles para la comunidad.
+
+### 📫 ¿Cómo contactarme?
+Si deseas ponerte en contacto conmigo, puedes escribirme a:  
+✉️ **ramirezjeisonandres@gmail.com**
+
+### 🌐 Encuéntrame en otras plataformas
+- [LinkedIn](https://www.linkedin.com/in/jeison-andres-ramirez-87a46056/)
+- [GitHub](https://github.com/JARAMIREZRA)
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
