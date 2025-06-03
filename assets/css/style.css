@@ -1217,7 +1217,11 @@ section {
 }
 
 .img-job-two {
-  width: 70%;
+  width: 80%;
+}
+
+.cart-ico-site {
+  font-size: 4rem !important;
 }
 
 .title-job {
@@ -1237,4 +1241,8 @@ section {
 .card {
   border-radius: 1rem;
   box-shadow: 5px 10px 8px rgba(0, 0, 0, 0.3);
+}
+
+.card-theme {
+  background-color: var(--container-color) !important;
 }
